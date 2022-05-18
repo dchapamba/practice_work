@@ -1,0 +1,33 @@
+.red_container{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+.blue_container{
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.yellow_container{
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+body{
+  margin: 0px;
+  text-align: center;
+}
+.parent{
+  background-color: grey;
+  margin-top: 0;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+}
